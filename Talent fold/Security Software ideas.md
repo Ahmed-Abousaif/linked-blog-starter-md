@@ -11,3 +11,6 @@
 # Links to review
 1. https://darkmon.com/ (Dark Web Monitoring & Alert System)
 2. https://optimaps.com/optima-services/optima-eye-services/
+
+paloalto strata
+cyberbit
